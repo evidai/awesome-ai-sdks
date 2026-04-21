@@ -170,15 +170,15 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
-## [LemonCake](https://lemoncake.xyz?utm_source=awesome-ai-sdks&utm_medium=github)
-Pay Tokens for AI agents — JWT-signed upstream API payment proxy with hard USDC spending caps, expiry, domain scope, and a sub-second kill-switch. Every charge is auto-journaled to freee / Money Forward (Japanese accounting, including source-withholding splits and adaptive-invoice-number checks) or QuickBooks. SDKs for Dify, Coze, MCP, and Eliza.
+## [LemonCake](https://lemoncake.xyz)
+Pay Tokens for AI agents — JWT-signed upstream API payment proxy with hard USDC spending caps, expiry, domain scope, and a sub-second kill-switch. Every charge is auto-journaled to freee / Money Forward (Japanese accounting, including source-withholding splits and adaptive-invoice-number checks) or QuickBooks. MIT-licensed SDKs for Dify, MCP, and Eliza.
 
 <details>
 
 <!-- ### Description -->
 
 ### Links
-- [Web](https://lemoncake.xyz?utm_source=awesome-ai-sdks&utm_medium=github)
+- [Web](https://lemoncake.xyz)
 - [GitHub](https://github.com/evidai/lemon-cake)
 - [npm: lemon-cake-mcp](https://www.npmjs.com/package/lemon-cake-mcp)
 - [npm: eliza-plugin-lemoncake](https://www.npmjs.com/package/eliza-plugin-lemoncake)
